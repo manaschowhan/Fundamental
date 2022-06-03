@@ -1,0 +1,3 @@
+#In this session we will reverse the given lettters...
+a=input('Enter the string you want to reverse... ')[::-1]
+print('The reverse of the string is',a)
